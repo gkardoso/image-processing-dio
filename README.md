@@ -7,21 +7,14 @@ The package package_name is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install kardoso_image_processing
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+pip install kardoso_image_processing
 ```
 
 ## Author
-My_name
+Guilherme Cardoso
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
